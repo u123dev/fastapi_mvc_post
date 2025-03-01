@@ -116,5 +116,8 @@
 ### API Access docs
    - [http://127.0.0.1:8000/docs/](http://127.0.0.1:8000/docs/)
 
+### Demo
+![API](demo/mvc01.jpg "FastAPI MVC Post Service API")
+
 ### Contact
 Feel free to contact: u123@ua.fm
