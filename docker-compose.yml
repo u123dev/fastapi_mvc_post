@@ -1,0 +1,8 @@
+services:
+  fastapi_mvc:
+    container_name: fastapi_mvc
+    build: .
+    volumes:
+      -  ./:/app
+    ports:
+      - 8000:8000
