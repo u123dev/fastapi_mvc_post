@@ -82,9 +82,12 @@
 ```
 
 
+### How to run in Docker
+```
+docker-compose up --build
+```
 
-### How to run
-
+### How to run manually
 1. Clone this repository
    ```sh
     git clone https://github.com/u123dev/fastapi_mvc_post.git
